@@ -22,6 +22,8 @@
 <![endif]-->
 <!--     CEO     -->
 <link rel="alternate" href="http://lazubot.github.io/Lazu/" hreflang="en-us" />
+<link rel="alternate" href="http://lazubot.github.io/Lazu/" hreflang="ar-iq" />
+<link rel="alternate" href="http://lazubot.github.io/Lazu/" hreflang="x-default" />
 
 <style type="text/css">#website h1,#website h2,#website #content h3,#website .topmenu{font-family:"Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif}#website,#website p{font-family:"Varela Round","Helvetica Neue",Helvetica,Arial,sans-serif}.container_content{}</style>
 
