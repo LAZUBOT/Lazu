@@ -105,7 +105,7 @@ function socialShare(id){
     <!-- Content -->
     <div class="WxEditableArea" id="contentArea"><script type="text/javascript" id="jsMenusSetup">ddlevelsmenu.setup("1", "topbar","0","0");jQuery(function(){})</script><div class="kedit container-fluid" data-bgcolor="#90A4AE" data-background="data/files/blue_matrix_by_bboisupafly1.jpg" id="kpg_171" style="background:#90A4AE url(data/files/blue_matrix_by_bboisupafly1.jpg) no-repeat center center;background-size:cover"><h1>wathiq</h1>
 <ol class="breadcrumb">
-<li><a href="http://sitebuilder.romeos-panel.com/"><i class="fa fa-home"></i> Home</a></li>
+<li><a href="http://lazubot.github.io/Lazu/"><i class="fa fa-home"></i> Home</a></li>
 <li class="active">wathiq</li>
 </ol></div><div class="kedit container-fluid" id="kpg_762"><p><span class="fa mceNonEditable"></span> Wathiq Al-Qajar&nbsp;<span class="fa mceNonEditable"></span> 2016 -&nbsp;<span class="fa mceNonEditable"></span></p>
 <div>&nbsp;</div>
@@ -154,7 +154,7 @@ function socialShare(id){
     #kopageHiddenEditor a i{vertical-align:middle;line-height:40px;}
 
     </style>
-    	<div id="kopageHiddenEditor"><a href="http://sitebuilder.romeos-panel.com/index.php?exitEditor=1"><i class="fa fa-cog" style="display:inline-block"></i><span>Admin Area</span></a></div>
+    	<div id="kopageHiddenEditor"><a href="http://lazubot.github.io/Lazu/index.php?exitEditor=1"><i class="fa fa-cog" style="display:inline-block"></i><span>Admin Area</span></a></div>
 	
 	<script src="inc/js/jquery.parallax.js"></script>
 <script>$(".parallax-window").parallax(); var orgElementPos = $("#headerMenu").offset(); orgElementTop = orgElementPos.top+20;$(window).bind("scroll",function(){if($(window).scrollTop()>orgElementTop){$("#header").addClass("is-fixed")}else{$("#header").removeClass("is-fixed")}});</script>
