@@ -4,7 +4,7 @@
 <!--RSS-->
 <link rel="bookmark" href="data/files/w.png" />
 <link rel="shortcut icon" href="data/files/w.png" />
-<link rel="apple-touch-icon" href="data/files/w.png" /><script>var tinyMcePath="";</script><script src="tiny_mce/plugins/media/js/embed.js" type="text/javascript"></script>
+<link rel="apple-touch-icon" href="data/files/w.png" /><script>var tinyMcePath="";</script><script src="//sitebuilder.romeos-panel.com/tiny_mce/plugins/media/js/embed.js" type="text/javascript"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 <link href="inc/js/simplelightbox.min.css" rel="stylesheet" type="text/css">
