@@ -221,6 +221,6 @@ a.kopageFreeFooterHide span{display:inline-block; font-size:12px; opacity:0;}
 a.kopageFreeFooterHide:hover span{transition:none;font-size:12px; opacity:1;margin:-3px 0 0 -5px;vertical-align:middle}
 
 
-<!--</style><div class="kopageFreeFooter animated fadeInUp"><span>free website<br>built with</span> <a href="http://www.kopage.com">wathiq</a></div>-->
+<!--</style><div class="kopageFreeFooter animated fadeInUp"><span>free website<br>built with</span> <a href="http://www.kopage.com">kopage</a></div>-->
 </body>
 </html>
